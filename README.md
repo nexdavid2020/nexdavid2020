@@ -1,6 +1,6 @@
 Hello I'm @nexdavid2020.
 Sogang University in seoul, Republic of Korea.
-History and Software
+History and Computer Science
 
 <!---
 nexdavid2020/nexdavid2020 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
