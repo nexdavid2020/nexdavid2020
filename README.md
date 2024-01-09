@@ -65,7 +65,7 @@
       <td><a href="https://github.com/SilverCampus/aws_server.git">🔗</a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/Sinchonthon-Minyoung-Team/sinchon-univpet-backend">UNIVPET : 대학생 청원 플랫폼</a></td>
+      <td><a href="https://github.com/Sinchonthon-Minyoung-Team/sinchon-univpet-backend](https://github.com/sinchonthon-team3/Dont-Dont-Don-server)">돈돈돈! - N빵 어플</a></td>
       <td>
         <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/>
