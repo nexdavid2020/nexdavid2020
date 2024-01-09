@@ -100,5 +100,5 @@
 </div><br>
 
 <div align="center">
-  <img class="centered-image" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=biin" alt="Solved.ac 프로필">
+  <img class="centered-image" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=nex_david" alt="Solved.ac 프로필">
 </div>
