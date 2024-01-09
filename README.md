@@ -13,7 +13,7 @@
 	<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white" />
 	<img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white" />
 	<img src="https://img.shields.io/badge/Java-4B4B77?style=flat&logo=Java&logoColor=white" />
-	<img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" />
+<!-- 	<img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" /> -->
 </div>
 
 <div align="center">
@@ -22,7 +22,7 @@
 
 <div align="center">
 	<img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" />
-	<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white" />
+<!-- 	<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white" /> -->
 </div>
 
 <div align="center">
