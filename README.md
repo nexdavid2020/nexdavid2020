@@ -74,7 +74,7 @@
 	<img src="https://img.shields.io/badge/EC2-FF9900?style=flat&logo=amazonec2&logoColor=white" />
       </td>
       <td>2023</td>
-      <td><a href="https://github.com/Sinchonthon-Minyoung-Team/sinchon-univpet-backend">🔗</a></td>
+      <td><a href="https://github.com/sinchonthon-team3/Dont-Dont-Don-server">🔗</a></td>
     </tr>
     <tr>
       <td><a href="https://drive.google.com/file/d/1ht85bRNnOc94XKOtued47eKLyrSuJz9y/view?usp=drive_link">Crews : 서강 리쿠르팅 플랫폼</a></td>
