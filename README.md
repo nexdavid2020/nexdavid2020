@@ -55,7 +55,7 @@
       <th>GitHub</th>
     </tr>
     <tr>
-      <td><a href="https://drive.google.com/file/d/15VXm0KVYfjIYbRgcn1ALwNySjfl2Sclr/view?usp=sharing">Silver Campus : 노인을 위한 인터넷 강의 플랫폼</a></td>
+      <td><a href="https://drive.google.com/file/d/15VXm0KVYfjIYbRgcn1ALwNySjfl2Sclr/view?usp=sharing">Silver Campus : 노인을 위한 인터넷 강의 플랫폼 - 멋쟁이사자처럼 11기 중앙헤커톤 출품 작품</a></td>
       <td>
         <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/>
@@ -67,7 +67,7 @@
       <td><a href="https://github.com/SilverCampus/aws_server.git">🔗</a></td>
     </tr>
     <tr>
-      <td><a href="https://drive.google.com/file/d/1d3El95t5QjPpN3A0I7c5_Kusnzbl4l6T/view?usp=drive_link">돈돈돈! - N빵 어플</a></td>
+      <td><a href="https://drive.google.com/file/d/1d3El95t5QjPpN3A0I7c5_Kusnzbl4l6T/view?usp=drive_link">돈돈돈! - N빵 어플 - 2023년도 '신촌톤' 우승 작품</a></td>
       <td>
         <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/>
