@@ -22,7 +22,8 @@
 
 <div align="center">
 	<img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" />
-<!-- 	<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white" /> -->
+	<img src="https://img.shields.io/badge/fastapi-009688?style=flat&logo=fastapi&logoColor=white" />
+	<!-- 	<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white" /> -->
 	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
 </div>
 
